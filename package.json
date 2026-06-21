@@ -18,5 +18,9 @@
       }
     ]
   },
-  "publisher": "masepi"
+  "publisher": "masepi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/masepi/masepi-jblow.git"
+  }
 }
