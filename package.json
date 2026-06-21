@@ -2,7 +2,7 @@
   "name": "masepi-jblow",
   "displayName": "masepi-jblow",
   "description": "jblow inspired color theme",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "engines": {
     "vscode": "^1.125.0"
   },

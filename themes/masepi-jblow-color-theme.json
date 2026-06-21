@@ -273,7 +273,8 @@
 	      "meta.method-call",
 	      "meta.function.call entity.name.function",
 	      "meta.function-call entity.name.function",
-	      "meta.method-call entity.name.function"
+	      "meta.method-call entity.name.function",
+		  "entity.name.tag"
 	    ],
 	    "settings": {
 	      "foreground": "#C9B499"
