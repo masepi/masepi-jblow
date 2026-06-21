@@ -1,0 +1,22 @@
+{
+  "name": "masepi-jblow",
+  "displayName": "masepi-jblow",
+  "description": "jblow inspired color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.125.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "masepi-jblow",
+        "uiTheme": "vs-dark",
+        "path": "./themes/masepi-jblow-color-theme.json"
+      }
+    ]
+  },
+  "publisher": "masepi"
+}
